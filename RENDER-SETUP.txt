@@ -1,0 +1,11 @@
+RENDER SETTINGS
+
+1. Create New Web Service
+2. Connect GitHub Repo
+3. Root Directory = backend
+4. Build Command = npm install
+5. Start Command = node server.js
+
+Environment Variables:
+PORT=10000
+NODE_ENV=production
